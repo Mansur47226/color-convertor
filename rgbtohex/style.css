@@ -1,0 +1,40 @@
+#converter{
+    text-align: center;
+    margin-top: 250px;
+}
+.panel{
+    padding: 5px;
+    background-color: white;
+    margin-left:500px;
+    border-radius: 10px;
+    width: 350px;
+}
+button{
+    background-color:rgb(91, 193, 61) ;
+    border:rgb(91, 193, 61);
+    border-radius: 3px;
+    padding: 5px;
+    color: white;
+    padding-top: 10px;
+    width: 240px;
+}
+body{
+    background-color: rgb(244, 244, 246);
+}
+input{
+padding: 5px;
+width: 340px;
+padding-top: 10px;
+}
+button:hover{
+    background-color: #218838;
+    cursor: pointer;
+}
+
+.preview{
+    width: 100%;
+    height: 50px;
+    margin-top: 20px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}

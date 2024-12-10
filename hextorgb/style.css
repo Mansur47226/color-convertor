@@ -1,0 +1,25 @@
+#container{
+    text-align: center;
+    margin-top: 250px;
+}
+button{
+    background-color:greenyellow;
+    color: black;
+    margin-right: 110px;
+    padding: 11px;
+    border:greenyellow;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+input{
+    padding: 4px;
+}
+body{
+    background-color: rgb(244, 244, 246);
+}
+button:hover{
+    background-color: green;
+}
+.int{
+    margin-bottom: 5px;
+}
